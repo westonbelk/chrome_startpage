@@ -1,4 +1,4 @@
-chorme_startpage
+Chrome Start Page
 ================
 
 Custom start/new tab page for Google Chrome. For use with New Tab Redirect.
