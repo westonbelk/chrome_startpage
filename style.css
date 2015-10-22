@@ -1,0 +1,39 @@
+body {
+    background: #FAFAFA; 
+    margin: 0px;
+    font-size:100px;
+    font-family: 'Roboto Condensed', sans-serif;}
+
+h1 {
+    font-weight: normal;
+    font-size: 1em;
+    margin: 0;
+}
+
+#favorites_bar {
+
+}
+
+img {
+    max-width: 64px;
+}
+
+#google_blue{
+    color:#33B5E5;
+}
+#google_purple{
+    color:#AA66CC;
+}
+#google_green{
+    color:#99CC00;
+}
+#google_orange{
+    color:#FFBB33;
+}
+#google_red{
+    color:#FF4444;
+}
+
+a{
+    text-decoration:none;
+}
